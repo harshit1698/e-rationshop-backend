@@ -24,7 +24,7 @@ keyring==10.6.0
 keyrings.alt==3.0
 mysqlclient==1.4.2.post1
 oauthlib==3.0.2
-Pillow==5.1.0
+Pillow==6.2.0
 pipenv==2018.11.26
 protobuf==3.0.0
 psycopg2==2.8.3
